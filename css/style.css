@@ -12,7 +12,6 @@ h1 {
     background-color: #b73e3e;
     color: #eddbc0;
     padding: 15px;
-    margin-bottom: 10px;
 }
 
 h3 {
@@ -22,6 +21,10 @@ h3 {
     color: #eddbc0;
     margin: 0px;
     padding: 5px 20px;
+}
+
+.collection h3 {
+    background-color: #dd5353;
 }
 
 p {

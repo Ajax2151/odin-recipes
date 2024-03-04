@@ -1,6 +1,6 @@
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #eddbc0;
+    background-color: #f3edc8;
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
@@ -9,22 +9,29 @@
 h1 {
     font-size: 50px;
     font-family: Garamond, serif;
-    background-color: #b73e3e;
-    color: #eddbc0;
-    padding: 15px;
+    padding: 15px 15px 5px 15px;
+    background: #7d0a0a;
+    color: #f3edc8;
+}
+
+.title > p {
+    background-color: #7d0a0a;
+    color: #f3edc8;
+    padding-left: 15px;
+    padding-bottom: 15px;
 }
 
 h3 {
     font-size: 30px;
     font-family: Garamond, serif;
-    background-color: #b73e3e;
-    color: #eddbc0;
+    background-color: #7d0a0a;
+    color: #f3edc8;
     margin: 0px;
     padding: 5px 20px;
 }
 
 .collection h3 {
-    background-color: #dd5353;
+    background-color: #bf3131;
 }
 
 p {
